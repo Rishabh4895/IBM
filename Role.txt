@@ -1,0 +1,88 @@
+Role and Responsibilities
+Business Analyst
+
+Requirement gathering
+
+Create Usecase Board
+
+Project Manager
+
+Create Project Plan
+
+ManageProject
+
+Architect
+
+System Architecture Document
+
+Create POC ( Proof Of Concept)
+
+DBA
+
+Create Database Model
+
+Project Lead
+
+Lead the project
+
+Control quality
+
+Manage Technical issues
+
+Participate in critical Usecase development
+
+Technical Lead
+
+Create Project coding guideline
+
+Create code review checklist
+
+Sr. Software Engineer ( Sr. Developer)
+
+Develop Usecases
+
+Develop Design Model
+
+Develop code
+
+Module Lead
+
+Software Engineer  (Developer)
+
+I am a full stack developer, My responsibilities are to develop code, develop unit (JUnit) testcases, and peer code review.
+
+Deployment Lead
+
+Develop ANT build script
+
+Create Build and deploy and QA Server
+
+Run JUnit Testsuite
+
+QA Engineers ( Testers )
+
+Functional Testing
+
+System Integration Testing ( SIT)
+
+Load Testing using Load Runner
+
+HTML Designer
+
+Design Usecase HTML pages
+
+
+FAQ
+
+Q: How do you do unit testing 
+
+A: Unit testing is done by JUnit test cases.
+
+Q: What is full stack developer 
+
+A: I can write code in Angular and Spring.
+
+Q: How do you do code review?
+
+A: With the help of a code-review checklist we do code review. It is done to control quality of code.
+Peer Developers- me and my colleagues working on the same project.
